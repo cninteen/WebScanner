@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c32a18af-b6e1-481a-a802-259aba554ff9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3n7av6QrvrFLyRTXtcUEVeo1z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.crtScan">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webscanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../learn_py/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="webscanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../learn_py/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crtScan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webscanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../learn_py/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crtScan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dirScan" type="PythonConfigurationType" factoryName="Python">
+      <module name="webscanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dirScan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webscanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../learn_py/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crtScan" />
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c32a18af-b6e1-481a-a802-259aba554ff9" name="Default Changelist" comment="" />
+      <created>1578386979933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578386979933</updated>
+      <workItem from="1578386994623" duration="405000" />
+      <workItem from="1578396598936" duration="704000" />
+      <workItem from="1578397339089" duration="8424000" />
+      <workItem from="1578531121012" duration="280000" />
+      <workItem from="1578536496529" duration="439000" />
+      <workItem from="1578537016085" duration="3599000" />
+      <workItem from="1578550183380" duration="2331000" />
+      <workItem from="1578557690479" duration="691000" />
+      <workItem from="1578623616450" duration="1059000" />
+      <workItem from="1578627141301" duration="154000" />
+      <workItem from="1579599173629" duration="266000" />
+      <workItem from="1579682668195" duration="579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="113" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578397380849">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1578397380849" />
+    <state x="446" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578399684904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="446" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1578399684904" />
+    <state x="521" y="374" key="Github.CreateGistDialog" timestamp="1579683517463">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="521" y="374" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1579683517463" />
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1578561283484">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900/-127.-1050.1680.1050@0.0.1440.900" timestamp="1578561283484" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578448706227" />
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.773/-127.-1027.1680.1027@0.23.1440.773" timestamp="1578540460385" />
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.779/-127.-1027.1680.1027@0.23.1440.779" timestamp="1578538089115" />
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.783/-127.-1027.1680.1027@0.23.1440.783" timestamp="1578541287309" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1578561283483">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.0.1440.900/-127.-1050.1680.1050@0.0.1440.900" timestamp="1578561283483" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578448706225" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.773/-127.-1027.1680.1027@0.23.1440.773" timestamp="1578540460384" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.779/-127.-1027.1680.1027@0.23.1440.779" timestamp="1578538089114" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.783/-127.-1027.1680.1027@0.23.1440.783" timestamp="1578541287308" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1578561283483">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.0.1440.900/-127.-1050.1680.1050@0.0.1440.900" timestamp="1578561283483" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578448706223" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.773/-127.-1027.1680.1027@0.23.1440.773" timestamp="1578540460383" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.779/-127.-1027.1680.1027@0.23.1440.779" timestamp="1578538089113" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.783/-127.-1027.1680.1027@0.23.1440.783" timestamp="1578541287308" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1578561283484">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.0.1440.900/-127.-1050.1680.1050@0.0.1440.900" timestamp="1578561283484" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578448706226" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.773/-127.-1027.1680.1027@0.23.1440.773" timestamp="1578540460384" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.779/-127.-1027.1680.1027@0.23.1440.779" timestamp="1578538089115" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.783/-127.-1027.1680.1027@0.23.1440.783" timestamp="1578541287309" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1578449153989">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-127.-1050.1680.1050@0.0.1440.900" timestamp="1578449153989" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1578397417950" />
+    <state x="374" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579682688417">
+      <screen x="0" y="23" width="1440" height="779" />
+    </state>
+    <state x="374" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-127.-1050.1680.1050@0.0.1440.900" timestamp="1578557691945" />
+    <state x="374" y="265" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579599174120" />
+    <state x="374" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.773@0.23.1440.773" timestamp="1578627143774" />
+    <state x="374" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.779/-127.-1027.1680.1027@0.23.1440.779" timestamp="1578550191588" />
+    <state x="374" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.779@0.23.1440.779" timestamp="1579682688417" />
+    <state x="374" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.788/-127.-1027.1680.1027@0.23.1440.788" timestamp="1578531295100" />
+    <state x="388" y="77" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578538509976">
+      <screen x="0" y="23" width="1440" height="779" />
+    </state>
+    <state x="388" y="77" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.779/-127.-1027.1680.1027@0.23.1440.779" timestamp="1578538509976" />
+    <state x="297" y="23" width="845" height="779" key="find.popup" timestamp="1578537510546">
+      <screen x="0" y="23" width="1440" height="779" />
+    </state>
+    <state x="297" y="23" width="845" height="779" key="find.popup/0.23.1440.779/-127.-1027.1680.1027@0.23.1440.779" timestamp="1578537510546" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1578449918050">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900/-127.-1050.1680.1050@0.0.1440.900" timestamp="1578449918050" />
+    <state x="385" y="120" width="670" height="58" key="search.everywhere.popup" timestamp="1578539317751">
+      <screen x="0" y="23" width="1440" height="773" />
+    </state>
+    <state x="385" y="120" width="670" height="58" key="search.everywhere.popup/0.23.1440.773/-127.-1027.1680.1027@0.23.1440.773" timestamp="1578539317751" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webscanner$crtScan.coverage" NAME="crtScan Coverage Results" MODIFIED="1578558072919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webscanner$DirScan.coverage" NAME="dirScan Coverage Results" MODIFIED="1578397289068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/webscanner$test.coverage" NAME="test Coverage Results" MODIFIED="1578540172009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webscanner$dirScan.coverage" NAME="dirScan Coverage Results" MODIFIED="1578537516225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webscanner$Main.coverage" NAME="Main Coverage Results" MODIFIED="1578551137887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
