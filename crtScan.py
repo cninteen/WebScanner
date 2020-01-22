@@ -25,7 +25,4 @@ class crtScan():
         except:
             return self.result
 
-# if __name__ == '__main__':
-#     c = crtScan("ichunqiu.com")
-#     print(c.run())
 
